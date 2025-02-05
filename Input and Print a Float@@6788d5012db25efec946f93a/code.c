@@ -1,8 +1,7 @@
-#include<iostream.h>
-using namespace std;
+#include<stdio.h>
 int main()
 {
    float a;
-   cin>>a;
-   cout<<a; 
+   scanf(a);
+   printf(a);
 }
