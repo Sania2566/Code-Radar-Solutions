@@ -8,11 +8,12 @@ int main()
         {
             printf("True");
         }
-    if else(a<0 && b<0)
+    elseif(a<0 && b<0)
         {
             printf("False");
         }
-    else{
+    else
+        {
         printf("False");
-    }
+        }
 }
